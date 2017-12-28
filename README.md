@@ -14,7 +14,7 @@ distributions.</p>
 
 ## Install
 
-    sudo snap install firebase
+    sudo snap install firebase --edge
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
