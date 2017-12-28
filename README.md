@@ -1,4 +1,5 @@
 <h1 align="center">
+  <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="firebase-logo" />
   <br />
   Firebase Tools
 </h1>
